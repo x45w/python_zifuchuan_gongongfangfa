@@ -1,4 +1,5 @@
 # python_zifuchuan_gongongfangfa
+14-21
 python_字符串，高级数据类型的公共方法。
 字符串:
 字符串的定义
